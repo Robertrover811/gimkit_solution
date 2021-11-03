@@ -3,10 +3,10 @@ total = 0
 upgrades = {
   moneyPerQuestion:{
 		zero:{
-			cost:0,
-			gain:1
+	  	cost:0,
+	  	gain:1
 		},
-    one:{
+  	one:{
       cost:10,
       gain:5
     },
@@ -41,7 +41,7 @@ upgrades = {
     nine:{
       cost:100000000,
       gain:1000000
-    }
+    },
   },
   multiplier:{
 		zero:{
@@ -126,5 +126,5 @@ upgrades = {
 			cost:2000000000,
 			gain:1000000
 		},
-  }
+  },
 }
